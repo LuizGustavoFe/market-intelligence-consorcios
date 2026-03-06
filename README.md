@@ -46,4 +46,4 @@ O dashboard é composto por 6 visões estratégicas:
 **Desenvolvido por Luiz Gustavo Federici**
 *Analista de Dados & Especialista em Business Intelligence*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-gustavo-federici)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-federici/)
